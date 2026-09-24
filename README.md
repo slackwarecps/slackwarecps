@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slackwarecps
 - 👀 I’m interested in ... Jazz, Rock and Books
-- 🌱 I’m currently learning ... Angular and AWS Architecture
+- 🌱 I’m currently learning ... Java, AI and AWS Architecture
 - 💞️ I’m looking to collaborate on ... IT projects!
 - 📫 How to reach me ... fabio.alvaro@gmail.com
 
